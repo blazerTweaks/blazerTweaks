@@ -1,6 +1,6 @@
 ## **Hey!** 👋
 
-I’m Blazer, a student based in Brazil 🇧🇷
+I’m Blazer, a student based in Brazil ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil")
 
 I’m a front-end developer, currently studying back-end development, and I love turning ideas into real, shipped projects.
 
