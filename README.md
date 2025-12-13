@@ -1,16 +1,18 @@
-## Hi there 👋
+Hey! 👋
 
-<!--
-**blazerTweaks/blazerTweaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Blazer, a student based in Brazil 🇧🇷
 
-Here are some ideas to get you started:
+I’m a front-end developer, currently studying back-end development, and I love turning ideas into real, shipped projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If something sparks my mind, I’ll probably build it.
+
+My main stack is HTML, CSS, JavaScript, and Vue.
+I also spend a lot of time designing with Figma, organizing ideas in Obsidian.
+
+Fun facts
+
+I love coffee 
+
+Favorite anime: Tokyo Ghoul
+
+Hobbies: anime, gym, and building things
