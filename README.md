@@ -7,7 +7,7 @@ I’m a front-end developer, currently studying back-end development, and I love
 If something sparks my mind, I’ll probably build it.
 
 My main stack is HTML, CSS, JavaScript, and Vue.
-I also spend a lot of time designing with Figma, organizing ideas in Obsidian.
+I also spend a lot of time organizing my ideas in Obsidian.
 #
 
 **Fun facts**
