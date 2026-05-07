@@ -1,4 +1,4 @@
-## **Hey!** 👋
+d## **Hey!** 👋
 
 I’m Gabriel, a student based in Brazil ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil")
 
@@ -13,4 +13,3 @@ I also spend a lot of time organizing my ideas in Obsidian.
 **Fun facts**
 - I love coffee 
 - Favorite anime: Sword Art Online
-- Hobbies: anime, gym, and building things
