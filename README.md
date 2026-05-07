@@ -1,4 +1,4 @@
-d## **Hey!** 👋
+## **Hey!** 👋
 
 I’m Gabriel, a student based in Brazil ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil")
 
