@@ -7,7 +7,6 @@ I’m currently studying front/back-end development, and I love turning ideas in
 If something sparks my mind, I’ll probably build it.
 
 My main stack is HTML, CSS, JavaScript.
-I also spend a lot of time organizing my ideas in Obsidian.
 #
 
 **Fun facts**
