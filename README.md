@@ -11,4 +11,4 @@ My main stack is HTML, CSS, JavaScript.
 
 **Fun facts**
 - I love coffee 
-- Favorite anime: Sword Art Online
+- Favorite anime: Code Geass
