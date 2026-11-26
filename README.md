@@ -30,5 +30,4 @@ I'm always experimenting with something new, so this list is bound to change.
 
 <p align="center">
   <i>"Un jour je serai de retour près de toi"</i>
-  <br>
 </p>
