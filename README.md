@@ -6,7 +6,7 @@ I spend most of my time building things, exploring new ideas, and learning how s
 
 ## What I'm Working On
 
-- **[REMILIA](https://github.com/blazerTweaks/Remilia).** A privacy-focused browser based on LibreWolf. I'm exploring browser internals, custom builds, privacy protections, and creating an experience of my own.
+- **[Remilia](https://github.com/blazerTweaks/Remilia).** A privacy-focused browser based on LibreWolf. I'm exploring browser internals, custom builds, privacy protections, and creating an experience of my own.
 - **Personal experiments & researches.** Various side projects, experiments, and ideas that I enjoy bringing to life.
 
 Most of my projects start with curiosity, and many are still unpublished. I don't necessarily build things because they need to exist, sometimes I just want to understand whether I can make them work.
